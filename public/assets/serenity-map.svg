@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580">
+  <rect width="1200" height="580" fill="#ecebe6"/>
+  <g fill="#dcebd2" opacity=".9">
+    <path d="M0 0h170l-30 92L0 122z"/>
+    <path d="M445 0h145l-24 74-117 25z"/>
+    <path d="M810 34l99-34h158l-45 106-152 17z"/>
+    <path d="M952 374l248-72v168l-122 45-132-48z"/>
+    <path d="M156 390l123-42 89 74-42 120-170 38-66-91z"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-width="8" opacity=".95">
+    <path d="M-40 87 266 210 508 195 783 280 1234 254"/>
+    <path d="M23 506 263 333 444 327 591 184 685-35"/>
+    <path d="M119 0 185 147 165 277 213 581"/>
+    <path d="M348-20 327 151 420 246 387 585"/>
+    <path d="m572 610 73-196 213-95 91-172 41-168"/>
+    <path d="m770 614 16-175 148-96 292 7"/>
+    <path d="M1019 605 986 455 1207 104"/>
+  </g>
+  <g fill="none" stroke="#d8d6d1" stroke-width="3" opacity=".9">
+    <path d="m0 172 144-18 127 88 142-1 144 73 164-44 157 56 186-42 176 16"/>
+    <path d="m0 289 106 22 82-31 142 91 127-29 126 85 176-48 144 78 297-73"/>
+    <path d="m36 580 23-179 86-93 4-205"/>
+    <path d="m273 580-9-137 72-106 10-190"/>
+    <path d="m484 580 6-119 79-103 12-160"/>
+    <path d="m687 580 7-128 95-93 14-173"/>
+    <path d="m904 580-11-105 77-112 22-194"/>
+    <path d="m1102 580-28-149 63-124 5-187"/>
+  </g>
+  <g fill="none" stroke="#f2c85c" stroke-width="24">
+    <path d="M130-40 190 118 158 255 201 620"/>
+    <path d="M730 625 856 463 1225 319"/>
+  </g>
+  <g fill="none" stroke="#fff1ac" stroke-width="4">
+    <path d="M130-40 190 118 158 255 201 620"/>
+    <path d="M730 625 856 463 1225 319"/>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#2c322f">
+    <text x="93" y="235" font-size="27" transform="rotate(-75 93 235)">Ring Road</text>
+    <text x="300" y="326" font-size="34">Mekanisa</text>
+    <text x="950" y="425" font-size="26" transform="rotate(-20 950 425)">Bole Road</text>
+    <text x="926" y="181" font-size="24" fill="#3479b8">Kazanchis</text>
+  </g>
+</svg>
